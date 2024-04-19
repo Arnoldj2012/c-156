@@ -1,0 +1,8 @@
+<a-entity position='23.5 19.3 0>
+ <a-entity 
+position=""
+text=font: aileronsemibold ; width:14 ; color:black ; value:TIME /Nremaining>
+  <a-entity
+id="timer"
+position="-9.8 0.3 0"
+text=" font: exo2bold; align:center ; width:30 ; color:black ; value: 00:00 "
